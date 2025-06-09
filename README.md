@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/JuliyaPershina](https://github.com/JuliyaPershina)
 
-- 💬 Ask me about **HTML, CSS**
+- 💬 Ask me about **HTML, CSS, JavaScript**
 
 - 📫 How to reach me **jpershina79@gmail.com**
 

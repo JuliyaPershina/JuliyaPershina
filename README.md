@@ -3,7 +3,7 @@
 <h1 align="center">I'm Juliia Pershina</h1>
 <h3 align="center">A junior frontend developer from Ukraine.</h3>
 
-- 🌱 I’m currently learning **JavaScript, TypeScript, React, Next.js**
+- 🌱 I’m currently learning **JavaScript, TypeScript, React, Next.js, Tailwind**
 
 - 👨‍💻 All of my projects are available at [https://github.com/JuliyaPershina](https://github.com/JuliyaPershina)
 
